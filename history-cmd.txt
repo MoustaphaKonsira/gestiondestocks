@@ -1,0 +1,54 @@
+    1  git confi --global user.name "Moustapha DIANE"
+    2  git config --global user.name "Moustapha DIANE"
+    3  git config --global user.name
+    4  git config --global user.email "moustaphakonsira.diane@gmail.com"
+    5  git config --global user.email
+    6  cd www
+    7  cd : wanp 
+    8  cd c
+    9  ls
+   10  cd c:/
+   11  ls
+   12  cd wamp64/
+   13  ls
+   14  cd www
+   15  ls
+   16  rm -rf projet-gestion-stocks/
+   17  ls
+   18  mkdir gestions-de-stocks 
+   19  ls
+   20  cd gestions-de-stocks/
+   21  ls 
+   22  clean
+   23  clear
+   24  git init 
+   25  ls -a
+   26  ls
+   27  rm -rm index
+   28  rm -rf index
+   29  ls
+   30  git status
+   31  git status
+   32  git add index
+   33  git status
+   34  help git committed
+   35  git commit -m initialisation de projet 
+   36  git status
+   37  git commit -m "initialisation de projet"
+   38  status
+   39  git status
+   40  gitk --all
+   41  git remote add githubRepo $ git remote add githubRepo
+   42  git remote add githubRepo $ git remote add githubRepo $ git remote add githubRepo
+   43  git remote add githubRepo $ git remote add githubRepo $ git remote add githubRepo https://github.com/MoustaphaKonsira/gestiondestocks.git
+   44  git remote add origin https://github.com/MoustaphaKonsira/gestiondestocks.git
+   45  git romote
+   46  git remote
+   47  git push -u origin master
+   48  kankan1993
+   49  $
+   50  git remote add origin https://github.com/MoustaphaKonsira/gestiondestocks.git
+   51  git push -u origin master
+   52  history
+   53  cat history > history-cmd.txt
+   54  history > history-cmd.txt
